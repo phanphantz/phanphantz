@@ -57,7 +57,7 @@ This section features my lecture materials for teaching game development to univ
     - Saving & Loading from JSON
     - Web Requests
    
-- [**MDT Bitcoin Runner**](https://github.com/phanphantz/MDTBitcoinRunner123) - The project I picked from a [bitcoin-runner-unity](https://github.com/berkanuslu/bitcoin-runner-unity) GitHub repository and use to teach junior (3rd-year) game development students over 5-weeks period **from August to October 2022**
+- [**MDT Bitcoin Runner**](https://github.com/phanphantz/MDTBitcoinRunner123) - The project I picked and refactored from the [bitcoin-runner-unity](https://github.com/berkanuslu/bitcoin-runner-unity) GitHub repository and use to teach junior (3rd-year) game development students over 5-weeks period **from August to October 2022**
   - **Week 3** - Extract Method & Do Not Repeat Yourself (DRY)
   - **Week 5** - Clean Codes
     -  Either Call or Pass
