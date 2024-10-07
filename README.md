@@ -8,7 +8,7 @@ This section features all of my open-source projects, primarily Unity-based tool
 
 ### 🔥GameDevSecretSauce
 These are the tools and game development materials I share on [น้ำจิ้มสูตรลับของนักพัฒนาเกม](https://www.facebook.com/GameDevSecretSauce/). It's a Facebook page dedicated to providing valuable knowledge and techniques for Thai game developers.
-- [**Thai Font Doctor**](https://github.com/phanphantz/GameDevSecretSauce/tree/main/ThaiFontDoctor) - An Editor Tool for solving Thai font's vowel and tone mark issues in just minutes! It automates glyph pair adjustments within TextMeshPro's Font Asset, transforming a tedious process into a quick and effortless task.
+- [**Thai Text Care for Unity**](https://github.com/phanphantz/ThaiTextCare-for-Unity) - This library provides enhanced Thai language support for Unity's TextMeshPro such as Thai Word Segmentation and Thai Font Glyphs fixer for overlapped vowels/tone marks, significantly improving your experience when working with Thai language in Unity.
 - [**Google Sheet Downloader**](https://github.com/phanphantz/GameDevSecretSauce/tree/main/GoogleSheetDownloader) - A Helper script for downloading a private Google sheet as a serializable data list using Google Sheet API v.4
 
 ### 🔧PhEngine Packages
